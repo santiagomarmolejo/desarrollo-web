@@ -1,0 +1,13 @@
+Notas de la propuesta.
+
+Es interesante que van a trabajar directamente con una empresa que desea tener una página web,
+y leyendo el documento tengo un par de comentarios.
+
+•	Si ya tienen algunas restricciones y requerimientos, sería bueno adicionarlos en el 
+  documento para que les des soporte del producto que desean tener.
+•	Si es una empresa ya establecida, también es recomendable que le agreguen algo de 
+  historia de la empresa y algún soporte (documento, noticia o similar) sobre la empresa 
+  para que la puedan agregar a la bibliografía, el documento carece de esta, o estructurar
+  la propuesta en algo que les de soporte sobre diseñar y crear una página web.
+  
+  Avance_1 -> 4.2
